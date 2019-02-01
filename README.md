@@ -1,2 +1,4 @@
 # hello-world
-I will study here
+Hi everyone! 
+I will study here. I hope I can study)
+--best wishes
